@@ -1,0 +1,7 @@
+D:\Advent Of Code\AdventOfCode_2016\AdventOfCode_2016\bin\Debug\AdventOfCode_2016.exe.config
+D:\Advent Of Code\AdventOfCode_2016\AdventOfCode_2016\bin\Debug\AdventOfCode_2016.exe
+D:\Advent Of Code\AdventOfCode_2016\AdventOfCode_2016\bin\Debug\AdventOfCode_2016.pdb
+D:\Advent Of Code\AdventOfCode_2016\AdventOfCode_2016\obj\Debug\AdventOfCode_2016.csprojAssemblyReference.cache
+D:\Advent Of Code\AdventOfCode_2016\AdventOfCode_2016\obj\Debug\AdventOfCode_2016.csproj.CoreCompileInputs.cache
+D:\Advent Of Code\AdventOfCode_2016\AdventOfCode_2016\obj\Debug\AdventOfCode_2016.exe
+D:\Advent Of Code\AdventOfCode_2016\AdventOfCode_2016\obj\Debug\AdventOfCode_2016.pdb
